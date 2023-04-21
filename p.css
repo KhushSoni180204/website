@@ -1,0 +1,96 @@
+.header
+{
+    height: 100px;
+    width: 205.3vh;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: beige;
+    margin-left: -8px;
+    background-color: rgb(214, 180, 134);
+}
+body
+{
+    background-image: url(/pexels-stephan-seeber-1261728.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: block;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 204vh;
+}
+#hea
+{
+    font-size: 30px;
+    justify-content: center;
+    margin-left: 26.5rem;
+    margin-top: -1rem;
+    padding-top: 5px;
+}
+.name
+{
+    height: 30rem;
+    width: 90%;
+}
+#na
+{
+    color: rgb(35, 41, 43);
+    font-weight: 400;
+    font-size: 80px;
+    margin-left: 442px;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 145px;
+    font-weight: 400;
+}
+#va
+{
+    color: white;
+    margin-left: 504px;
+    font-size: 30px;
+}
+.nav
+{
+    background-color: white;
+    height: 60vh;
+    width: 205.4vh;
+    margin-left: -8px;
+}
+#ui
+{
+    font-size: 70px;
+    color:  rgb(35, 41, 43);
+    font-family: 'Roboto', sans-serif;
+    padding-top: 30px;
+    margin-left: 595px;
+}
+#mi
+{
+    font-size: 30px;
+    margin-left: 255px;
+    margin-top: -5px;
+    font-family: 'Roboto', sans-serif;
+}
+.pro
+{
+    height: 50vh;
+    width: 205.3vh;
+    margin-left: -8px;
+    background-color:  rgb(214, 180, 134);
+}
+.heb
+{
+    font-size: 40px;
+    color: black;
+    margin-left: 460px;
+    margin-top: 0px;
+    padding-top: 45px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+hr
+{
+    margin-left: 150px;
+    margin-right: 150px;
+    color: black;
+}
